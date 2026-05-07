@@ -62,7 +62,63 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Resume Analyzer](https://github.com/shatakshi-1404/ai-resume-analyzer)
+# 🍱 MealMind — Smart AI Meal Planner
+
+> Stop wasting food. Start eating smart.
+
+MealMind is a full-stack MERN application that helps you manage your pantry, get AI-powered recipe suggestions from ingredients you already own, and track your daily calories.
+
+🌐 **Live Demo:** [mealmind-zei5.vercel.app](https://mealmind-zei5.vercel.app)
+
+---
+
+## ✨ Features
+
+- 🔐 **Authentication** — Secure register/login with JWT
+- 🧺 **Pantry Manager** — Add ingredients with category, quantity and expiry date
+- 🤖 **AI Recipe Suggestions** — Get 3 recipes generated from your pantry using OpenRouter AI
+- 🛒 **Grocery List** — See exactly what ingredients you're missing for each recipe
+- 📋 **Meal Logger** — Log meals with calories and meal type
+- 🔥 **Calorie Tracker** — Track daily calories with a visual progress bar
+- 📊 **Dashboard** — Live stats for pantry items, meals logged and today's calories
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js, React Router |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Authentication | JWT, bcryptjs |
+| AI | OpenRouter API (Llama 4) |
+| Deployment | Vercel (frontend), Render (backend) |
+
+---
+# 📚 StudySync — AI Study Planner
+
+> Study smarter, not harder.
+
+StudySync is a full-stack MERN application that helps students create AI-powered day-by-day study plans, track their progress and test themselves with AI-generated quizzes.
+
+🌐 **Live Demo:** [your-studysync-url.vercel.app]
+
+---
+
+## ✨ Features
+
+- 🔐 **Authentication** — Secure register/login with JWT
+- 📖 **Subject Manager** — Add subjects with exam dates, difficulty and topics
+- 🤖 **AI Study Plan** — Generates a personalized day-by-day plan based on your exam date
+- ☑️ **Progress Tracker** — Mark study days as complete with visual progress bar
+- 🧠 **AI Quiz Generator** — Generate MCQ quizzes from any subject or your own notes
+- 📊 **Score Review** — See correct answers with explanations after every quiz
+- 🏠 **Dashboard** — Upcoming exams countdown + quiz history
+
+---
+
+# 🤖 [AI Resume Analyzer](https://github.com/shatakshi-1404/ai-resume-analyzer)
 > React 18 · TypeScript · Node.js · FastAPI · spaCy · MongoDB · Docker
 
 A production-grade 3-tier microservice system that analyzes resumes against job descriptions using NLP.
@@ -73,7 +129,7 @@ A production-grade 3-tier microservice system that analyzes resumes against job 
 
 ---
 
-### 🍽️ [Smart Restaurant Queue Management System](https://github.com/shatakshi-1404/resturant-queue-management-system)
+# 🍽️ [Smart Restaurant Queue Management System](https://github.com/shatakshi-1404/resturant-queue-management-system)
 > Node.js · React · TypeScript · Socket.io · MongoDB · JWT
 
 Real-time queue management platform eliminating physical wait lines — Top Finalist at SolvIt Hackathon 2025.
@@ -84,7 +140,7 @@ Real-time queue management platform eliminating physical wait lines — Top Fina
 
 ---
 
-### 🎬 [Movie Recommendation System](https://github.com/shatakshi-1404/movie-recommendation-system)
+# 🎬 [Movie Recommendation System](https://github.com/shatakshi-1404/movie-recommendation-system)
 > Python · Scikit-learn · Pandas · TF-IDF · Cosine Similarity · Streamlit
 
 Content-based movie recommendation engine with an interactive web interface.
