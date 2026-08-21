@@ -1,127 +1,98 @@
-# 👋 Hi, I'm Shatakshi Prasad
+<div align="center">
 
-### AI/ML Engineer · Generative AI · AI Agents · Python/FastAPI
+# 🔴 SHATAKSHI.AI
 
-> **I build intelligent applications that turn models, LLMs and APIs into usable products.**
+### `AI/ML ENGINEER` · `GENERATIVE AI` · `AI AGENTS` · `PYTHON/FastAPI`
 
-I'm a Computer Science Engineering student specializing in **AI/ML**, currently focused on building practical systems across **Machine Learning, Generative AI, AI Agents, NLP and Python/FastAPI**.
-
-I enjoy taking an idea from:
-
-**MODEL → API → APPLICATION → DEPLOYMENT**
-
-and I'm continuously learning how to build AI systems that are not only intelligent, but also usable and production-oriented.
+**Building intelligent applications that turn models, LLMs and APIs into real products.**
 
 <br>
 
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shatakshi-1404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/shatakshi-1404/)
+[![Email](https://img.shields.io/badge/Email-E50914?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shatakshiravaneshwarprasad@gmail.com)
+
+</div>
+
+---
+
+## 🔴 SYSTEM STATUS
+
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                     SHATAKSHI.AI                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS        ● ONLINE                                      │
-│  ROLE          AI/ML ENGINEER                                │
-│  SPECIALITY    ML + GENAI + AGENTS + FASTAPI                 │
-│  EDUCATION     B.Tech CSE — AI/ML                            │
-│  UNIVERSITY    VIT Bhopal                                   │
-│  GRADUATION    2027                                          │
-│                                                              │
-│  CURRENT_MODE  BUILDING                                      │
-│                                                              │
-│  > BUILD. DEPLOY. LEARN.                                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                     SHATAKSHI.AI                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS          ● ONLINE                                    ║
+║  ROLE            AI/ML ENGINEER                              ║
+║  SPECIALITY      ML · GENAI · AGENTS · NLP                   ║
+║  BACKEND         PYTHON · FASTAPI                            ║
+║  EDUCATION       B.Tech CSE — AI/ML                          ║
+║  UNIVERSITY      VIT Bhopal                                  ║
+║  GRADUATION      2027                                        ║
+║                                                              ║
+║  CURRENT MODE    BUILDING                                    ║
+║                                                              ║
+║  > MODEL → API → APPLICATION → DEPLOYMENT                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🧠 `about_me()`
+# 🧠 ABOUT ME
 
-```python
-class Shatakshi:
+I'm **Shatakshi Prasad**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning at VIT Bhopal**.
 
-    role = "AI/ML Engineer"
+I build practical systems across:
 
-    focus = [
-        "Machine Learning",
-        "Generative AI",
-        "AI Agents",
-        "NLP",
-        "FastAPI",
-        "AI-powered applications"
-    ]
+`Machine Learning` · `Generative AI` · `AI Agents` · `NLP` · `FastAPI` · `MLOps`
 
-    currently_learning = [
-        "Production AI systems",
-        "MLOps",
-        "RAG architectures",
-        "LLM applications",
-        "Backend engineering"
-    ]
+I enjoy taking an idea beyond the model itself and turning it into a complete application:
 
-    philosophy = "Build. Deploy. Learn."
-
-    future_goal = "Teach what I learn and build in public."
+```text
+             ┌──────────────┐
+             │    IDEA      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │  ML / LLM    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   FASTAPI    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   DATABASE   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │ APPLICATION  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │  DEPLOYMENT  │
+             └──────────────┘
 ```
 
-I'm currently pursuing a **B.Tech in Computer Science Engineering with an AI/ML specialization at VIT Bhopal**, graduating in 2027.
-
-My interests sit at the intersection of:
-
-**Machine Learning × Generative AI × Backend Engineering**
-
-I especially enjoy building applications where the AI model is only one part of a larger system — with APIs, databases, validation, interfaces and deployment around it.
+> **I don't just train models. I build systems around them.**
 
 ---
 
-# ⚙️ `tech_stack()`
+# 🎬 SHATAKSHI ORIGINALS
 
-### 🐍 Languages
+### `01` 🔎 QUERYMIND
 
-`Python` `Java` `C++` `C#` `SQL`
+#### Natural Language → SQL → Analytics
 
-### 🤖 Machine Learning
-
-`Scikit-learn` `Pandas` `NumPy` `NLP` `Transformers`
-
-### ✨ Generative AI
-
-`LLMs` `RAG` `LangChain` `LangGraph` `AI Agents` `Prompt Engineering`
-
-### 🚀 Backend & APIs
-
-`FastAPI` `Flask` `REST APIs` `Pydantic` `SQLAlchemy`
-
-### 🗄️ Databases
-
-`PostgreSQL` `MongoDB` `SQLite` `SQL Server` `Redis`
-
-### 🧪 MLOps / Deployment
-
-`MLflow` `Docker` `Model Serving` `Experiment Tracking`
-
-### 🌐 Full Stack
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express`
-
-### 🛠️ Tools
-
-`Git` `GitHub` `Postman` `Swagger/OpenAPI` `VS Code` `Visual Studio`
-
----
-
-# 🚀 `featured_systems()`
-
-> A few things I've built while exploring AI, ML and intelligent applications.
-
-## 🔎 QueryMind
-
-**Natural Language → SQL → Analytics**
-
-An AI-powered analytics application that allows users to interact with databases using natural language.
+An AI-powered analytics platform that allows users to interact with databases using natural language.
 
 ```text
 USER QUESTION
+      ↓
+SCHEMA UNDERSTANDING
       ↓
 LLM SQL GENERATION
       ↓
@@ -134,9 +105,9 @@ RESULT ANALYSIS
 CHARTS + AI INSIGHTS
 ```
 
-### What makes it interesting
+**Highlights**
 
-* Natural-language-to-SQL generation
+* Natural-language-to-SQL
 * Schema-aware prompting
 * Read-only SQL validation
 * Database querying
@@ -146,122 +117,167 @@ CHARTS + AI INSIGHTS
 * Interactive visualizations
 * FastAPI backend
 
-**Stack:** Python · FastAPI · LLMs · SQL · React · Recharts · Docker
+**Stack**
 
-**Repository:** `github.com/shatakshi-1404/querymind`
+`Python` `FastAPI` `LLMs` `SQL` `React` `Recharts` `Docker`
+
+**Repository**
+
+→ [github.com/shatakshi-1404/querymind](https://github.com/shatakshi-1404/querymind)
 
 ---
 
-## 🧠 RepoMind
+### `02` 🧠 REPOMIND
 
-**AI × Developer Tools**
+#### AI × Developer Tools
 
-An AI-powered developer-focused project exploring how intelligent systems can help developers understand and interact with software repositories.
+An AI-powered developer tool exploring how LLMs can understand software repositories and assist developers with codebase-level reasoning.
 
-Areas explored include:
+**Focus Areas**
 
 `Repository Understanding` · `Code Analysis` · `LLMs` · `AI`
 
-**Repository:** `github.com/shatakshi-1404/repomind`
+**Repository**
+
+→ [github.com/shatakshi-1404/repomind](https://github.com/shatakshi-1404/repomind)
 
 ---
 
-## 💳 CreditLens
+### `03` 💳 CREDITLENS
 
-**AI/ML × Credit Risk**
+#### AI × Credit Risk
 
-An AI/ML application focused on credit-risk assessment and model-driven financial insights.
+An AI/ML decision-support application focused on credit-risk assessment and machine-learning-driven financial insights.
 
-The project represents my interest in applying machine learning to practical decision-support systems.
+**Focus Areas**
 
-**Repository:** `github.com/shatakshi-1404/CreditLens`
+`Machine Learning` · `Python` · `Data Science` · `Credit Risk`
 
----
+**Repository**
 
-## ⚖️ Clause — Legal Document Simplifier
-
-**NLP × Document Intelligence**
-
-An AI-powered application designed to make complex legal language easier to understand.
-
-The project explores how NLP and AI can transform difficult documents into clearer, more accessible explanations.
-
-**Stack:** Python · AI/NLP · Web Application
-
-**Repository:** `github.com/shatakshi-1404/legal-simplifier`
-
-**Live Demo:** `legal-simplifier-five.vercel.app`
+→ [github.com/shatakshi-1404/CreditLens](https://github.com/shatakshi-1404/CreditLens)
 
 ---
 
-# 🏗️ `how_i_build()`
+### `04` ⚖️ CLAUSE
 
-I like thinking about AI applications as complete systems rather than isolated models.
+#### NLP × Legal Document Intelligence
+
+An AI-powered application that transforms complex legal language into simpler, easier-to-understand explanations.
+
+**Stack**
+
+`Python` · `NLP` · `AI` · `Document Intelligence`
+
+**Repository**
+
+→ [github.com/shatakshi-1404/legal-simplifier](https://github.com/shatakshi-1404/legal-simplifier)
+
+**Live Demo**
+
+→ [legal-simplifier-five.vercel.app](https://legal-simplifier-five.vercel.app/)
+
+---
+
+# ⚡ TECH STACK
+
+### 🐍 Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square\&logo=cplusplus\&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square\&logo=csharp\&logoColor=239120)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+
+### 🤖 AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square\&logo=scikit-learn\&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square\&logo=pandas\&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square\&logo=numpy\&logoColor=013243)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=flat-square\&logo=huggingface\&logoColor=FFD21E)
+
+`Machine Learning` · `NLP` · `LLMs` · `RAG` · `AI Agents` · `Prompt Engineering`
+
+### ✨ Generative AI
+
+`LangChain` · `LangGraph` · `RAG` · `LLM Applications` · `AI Agents`
+
+### 🚀 Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi\&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square\&logo=redis\&logoColor=DC382D)
+
+`REST APIs` · `Pydantic` · `SQLAlchemy` · `Async Python`
+
+### 🌐 Full Stack
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express`
+
+### 🧪 MLOps / DevOps
+
+`MLflow` · `Docker` · `Model Serving` · `Experiment Tracking` · `Git` · `GitHub`
+
+---
+
+# 🏗️ HOW I BUILD
 
 ```text
-                 ┌────────────────────┐
-                 │       USER         │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │     FRONTEND       │
-                 │ React / Next.js    │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │      FASTAPI       │
-                 │    REST / Async    │
-                 └─────────┬──────────┘
-                           ↓
-              ┌────────────┴────────────┐
-              ↓                         ↓
-      ┌───────────────┐         ┌──────────────┐
-      │ AI / ML LAYER │         │   DATABASE   │
-      │               │         │              │
-      │ ML / LLM /    │         │ PostgreSQL   │
-      │ RAG / Agents  │         │ MongoDB      │
-      └───────┬───────┘         └──────────────┘
+                 ┌─────────────────────┐
+                 │        USER         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │      FRONTEND       │
+                 │  React / Next.js    │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       FASTAPI       │
+                 │    REST / Async     │
+                 └──────────┬──────────┘
+                            ↓
+             ┌──────────────┴──────────────┐
+             ↓                             ↓
+      ┌───────────────┐             ┌──────────────┐
+      │   AI LAYER    │             │   DATABASE   │
+      │               │             │              │
+      │ ML / LLM /    │             │ PostgreSQL   │
+      │ RAG / Agents  │             │ MongoDB      │
+      └───────┬───────┘             └──────────────┘
               ↓
-      ┌────────────────┐
-      │   DEPLOYMENT   │
-      │ Docker / Cloud │
-      └────────────────┘
+      ┌─────────────────────┐
+      │      DEPLOYMENT     │
+      │   Docker / Cloud    │
+      └─────────────────────┘
 ```
 
-My goal is to become stronger at every layer:
+### Engineering mindset
 
-**model → backend → system → deployment**
+**MODEL → API → SYSTEM → DEPLOYMENT**
+
+I am particularly interested in building AI applications where the model is one component of a larger, reliable system.
 
 ---
 
-# 💼 `experience()`
+# 💼 EXPERIENCE
 
-### MPOnline — Software Engineering Intern
+## MPOnline
 
-**Advanced Software Engineering & Development Internship**
+### Software Engineering Intern
 
 **May 2026 — July 2026**
 
-During the internship I worked across software engineering fundamentals and modern application development.
+Advanced Software Engineering & Development Internship.
 
-### Areas covered
+Worked across:
 
-* Java
-* C++
-* C#
-* Python
-* OOP
-* DBMS / RDBMS
-* SQL
-* SDLC / MVC
-* Git / GitHub
-* Debugging
-* Testing
-* CRUD application development
-* AI/ML fundamentals
-* AI Agents
-* Retrieval-Augmented Generation
-* n8n automation
+`Java` · `C++` · `C#` · `Python` · `OOP` · `DBMS` · `SQL` · `Git` · `Testing` · `SDLC`
+
+Also explored:
+
+`AI/ML` · `AI Agents` · `RAG` · `n8n Automation`
 
 ### Live Software Project
 
@@ -269,35 +285,31 @@ Built a **Library Management System** involving:
 
 `Backend Development` · `Database Integration` · `CRUD` · `Business Logic` · `Testing`
 
-### Development tools
+**Development Environment**
 
-`SQL Server` `ASP.NET Core` `React` `Docker` `Postman` `Swagger/OpenAPI` `Node.js` `Git` `GitHub`
+`SQL Server` · `ASP.NET Core` · `React` · `Docker` · `Postman` · `Swagger/OpenAPI` · `Node.js` · `Git`
 
 ---
 
-# 🏆 `achievements()`
+# 🏆 ACHIEVEMENTS
 
 ```text
-╭──────────────────────────────────────────────────╮
-│                  ACHIEVEMENTS                     │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  🏆 Flipkart GRiD 7.0     → Round 1 Qualified    │
-│  🏆 Flipkart GRiD 8.0     → Round 1 Qualified    │
-│  🥇 SolVIT Hackathon 2024 → Finalist              │
-│  💻 TCS CodeVita          → Round 1 Qualifier     │
-│                           → Global Rank: 12,222   │
-│                                                  │
-╰──────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                         ACHIEVEMENTS                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🏆  Flipkart GRiD 7.0      → Round 1 Qualified              ║
+║  🏆  Flipkart GRiD 8.0      → Round 1 Qualified              ║
+║  🥇  SolVIT Hackathon 2024  → Finalist                       ║
+║  💻  TCS CodeVita           → Round 1 Qualifier               ║
+║                              → Global Rank: 12,222            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📜 `certifications()`
-
-### ☁️ Oracle Cloud Infrastructure
-
-**OCI Data Science Professional Certification**
+# 📜 CERTIFICATIONS
 
 ### 🤖 IBM Generative AI Professional Certification
 
@@ -305,9 +317,13 @@ Built a **Library Management System** involving:
 
 Built a **Hotel Sentiment Analyzer** as part of the certification work.
 
+### ☁️ Oracle Cloud Infrastructure
+
+**OCI Data Science Professional Certification**
+
 ---
 
-# 🎓 `education()`
+# 🎓 EDUCATION
 
 ### Vellore Institute of Technology — Bhopal
 
@@ -315,159 +331,106 @@ Built a **Hotel Sentiment Analyzer** as part of the certification work.
 
 **AI/ML Specialization**
 
-2023 — 2027
+`2023 — 2027`
 
 **CGPA: 8.56 / 10**
 
-### School Education
-
-**Christ Church Girls' Senior Secondary School, Jabalpur**
-
-CBSE Class XII — 77.2% — 2022
-
-CBSE Class X — 89% — 2020
-
 ---
 
-# 🧪 `currently_building()`
-
-I'm currently exploring:
+# 🧪 CURRENTLY BUILDING
 
 ```text
-┌──────────────────────────────────────────────┐
-│              CURRENT EXPERIMENTS              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  → Production-ready AI applications         │
-│  → RAG systems                               │
-│  → AI Agent architectures                    │
-│  → LLM-powered applications                  │
-│  → FastAPI backend systems                   │
-│  → MLOps & model deployment                  │
-│  → Better software engineering fundamentals  │
-│                                              │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    CURRENT EXPERIMENTS                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  → Production-ready AI applications                          ║
+║  → RAG architectures                                         ║
+║  → AI Agent systems                                           ║
+║  → LLM-powered applications                                  ║
+║  → FastAPI backend systems                                   ║
+║  → MLOps & model deployment                                  ║
+║  → Better software engineering fundamentals                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-The long-term goal is simple:
-
-> Build AI systems that actually solve problems.
+> **Learn → Build → Deploy → Understand → Teach**
 
 ---
 
-# 💻 `coding()`
+# 💻 CODING
 
 ### LeetCode
 
-I practice DSA and problem solving primarily using **Java**.
+I practice **Data Structures & Algorithms primarily in Java**.
 
-**Profile:** `leetcode.com/u/shatakshi-1404`
+→ [leetcode.com/u/shatakshi-1404](https://leetcode.com/u/shatakshi-1404/)
 
 ### GitHub
 
-Most of my engineering work lives here.
+My GitHub is my engineering workspace.
 
-**Profile:** `github.com/shatakshi-1404`
+I use it to document projects, experiment with new technologies and continuously improve my engineering practices.
 
 ---
 
-# 📚 `teaching_mode()`
+# 📊 GITHUB
 
-One thing I want to build alongside my engineering career is a space for **teaching**.
+<div align="center">
 
-I enjoy explaining things I've learned, especially programming and technical concepts.
+<img src="https://github-readme-stats.vercel.app/api?username=shatakshi-1404&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=FFFFFF" height="180"/>
 
-Eventually, I'd like to start a YouTube channel around:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-1404&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF" height="180"/>
+
+</div>
+
+---
+
+# 🎯 CAREER DIRECTION
+
+I'm currently interested in opportunities across:
 
 ```text
-DSA
-Java
-AI / ML
-Project Building
-Learning in Public
-Tech + Vlogs
+AI/ML ENGINEERING
+APPLIED AI
+MACHINE LEARNING
+GENERATIVE AI
+AI AGENTS
+PYTHON / FASTAPI
 ```
 
-For now:
-
-**LEARN → BUILD → UNDERSTAND → TEACH**
+I'm looking for opportunities where I can work on **real products, intelligent systems and challenging engineering problems** while learning from experienced engineers.
 
 ---
 
-# 🌱 `beyond_code()`
+# 🌱 BEYOND CODE
 
-Outside of coding, I enjoy:
+I also enjoy:
 
-* Teaching
-* Learning new technologies
-* Building side projects
-* Exploring AI tools
-* Planning future content
-* Vlogging
-* Sharing what I learn
+`Teaching` · `Building Side Projects` · `Learning New Technologies` · `Vlogging` · `Sharing What I Learn`
 
-I believe learning becomes more meaningful when you can eventually explain it to someone else.
+Long term, I want to combine **engineering + teaching + content creation** and build in public.
 
 ---
 
-# 📊 `github_activity()`
+# 📬 CONNECT
 
-I use GitHub as my engineering workspace — not just as a place to store code.
+<div align="center">
 
-My goal is to continuously improve:
+### Let's build something intelligent.
 
-**Code Quality → Architecture → Documentation → Testing → Deployment**
+<br>
 
-If you're visiting my profile for the first time, check out my featured repositories above.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shatakshi-1404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/shatakshi-1404/)
+[![Email](https://img.shields.io/badge/Email-E50914?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shatakshiravaneshwarprasad@gmail.com)
 
----
+<br><br>
 
-# 🎯 `career_goal()`
+**BUILD. DEPLOY. LEARN.**
 
-I'm currently interested in opportunities around:
+`SHATAKSHI.AI // SYSTEM ONLINE`
 
-**AI/ML Engineering**
-
-**Applied AI**
-
-**Machine Learning Engineering**
-
-**Generative AI**
-
-**AI Agents**
-
-**Python / FastAPI Backend Engineering**
-
-I'm especially interested in teams where I can work on real products, learn from experienced engineers and contribute to systems that use AI meaningfully.
-
----
-
-# 📬 `connect()`
-
-If you're building something interesting in AI/ML, I'd love to connect.
-
-**LinkedIn:** Shatakshi Prasad
-
-**GitHub:** shatakshi-1404
-
-**LeetCode:** shatakshi-1404
-
-**Email:** [shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com)
-
----
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│             BUILD. DEPLOY. LEARN.          │
-│                                            │
-│       AI/ML Engineer in progress...        │
-│                                            │
-│             status: evolving                │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
-<p align="center">
-  <i>Built with curiosity, code & too many ideas.</i>
-</p>
+</div>
