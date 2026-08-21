@@ -1,378 +1,473 @@
-<div align="center">
+# 👋 Hi, I'm Shatakshi Prasad
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=200&section=header&text=Shatakshi%20Prasad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20MERN%20%7C%20Django%20%7C%20GenAI%20%7C%20Agentic%20AI&descAlignY=60&descSize=18" width="100%"/>
+### AI/ML Engineer · Generative AI · AI Agents · Python/FastAPI
 
-</div>
+> **I build intelligent applications that turn models, LLMs and APIs into usable products.**
 
-<div align="center">
+I'm a Computer Science Engineering student specializing in **AI/ML**, currently focused on building practical systems across **Machine Learning, Generative AI, AI Agents, NLP and Python/FastAPI**.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfolio-4aky.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatakshi-prasad-9104772b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shatakshi-1404)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shatakshi-1404/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatakshiravaneshwarprasad@gmail.com)
+I enjoy taking an idea from:
 
-</div>
+**MODEL → API → APPLICATION → DEPLOYMENT**
 
----
+and I'm continuously learning how to build AI systems that are not only intelligent, but also usable and production-oriented.
 
-<div align="center">
+<br>
 
-*B.Tech CSE (AI/ML Specialization) · VIT Bhopal · **CGPA: 8.55 / 10** · Graduating 2027*
-
-I build **full-stack AI-powered products** — from MERN and Django backends to multi-agent GenAI pipelines — and ship them to production.
-
-</div>
-
----
-
-## 🗺️ FIND WHAT YOU'RE LOOKING FOR
-
-| Looking for a… | Jump to these projects |
-|---|---|
-| **Full Stack / MERN Developer** | [MealMind](#-mealmind--ai-meal-planner) · [StudySync](#-studysync--ai-study-planner) · [GitHub Explorer](#-github-profile-explorer) |
-| **AI / GenAI / Agentic AI Engineer** | [Multi-Agent Assistant](#-multi-agent-ai-research-assistant) · [Clause](#%EF%B8%8F-clause--legal-document-simplifier) · [Inventory Forecaster](#-smart-inventory-forecaster) |
-| **Django / Python Backend Developer** | [Vendora](#-vendora--multi-vendor-e-commerce) · [Social Analytics](#-social-media-analytics-dashboard) |
-| **QA Automation Engineer** | [Playwright BDD](#-playwright-bdd-framework) · [Selenium POM](#-selenium-pom-framework) · [REST API Suite](#-rest-api-test-framework) |
-
----
-
-## 🔴 FEATURED — FULL STACK AI ENGINEERING
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🤖 Multi-Agent AI Research Assistant
-> *4 AI agents. 1 pipeline. Real-time streaming.*
-
-A research pipeline where specialized AI agents collaborate like a real research team — Web Searcher → Summarizer → Fact-Checker → Report Writer — with live SSE streaming UI.
-
-**Stack:** `LangGraph` `LangChain` `Groq Llama 3.3 70B` `Tavily` `FastAPI` `Next.js 14` `TypeScript`
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=for-the-badge)](https://research-frontend-xgwb.vercel.app/)
-[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shatakshi-1404/research-frontend)
-[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shatakshi-1404/research-backend)
-
-✅ Multi-agent orchestration with LangGraph StateGraph  
-✅ Tool-calling LLMs with live web search integration  
-✅ Real-time streaming architecture (SSE)  
-✅ Full-stack CI/CD deployment (Render + Vercel)
-
-</td>
-<td width="40%" align="center" valign="top">
-
-```
-🔍 Web Searcher Agent
-        ↓
-📄 Summarizer Agent
-        ↓
-✅ Fact-Checker Agent
-        ↓
-✍️  Report Writer Agent
-        ↓
-📊 Live Streaming UI (SSE)
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                     SHATAKSHI.AI                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  STATUS        ● ONLINE                                      │
+│  ROLE          AI/ML ENGINEER                                │
+│  SPECIALITY    ML + GENAI + AGENTS + FASTAPI                 │
+│  EDUCATION     B.Tech CSE — AI/ML                            │
+│  UNIVERSITY    VIT Bhopal                                   │
+│  GRADUATION    2027                                          │
+│                                                              │
+│  CURRENT_MODE  BUILDING                                      │
+│                                                              │
+│  > BUILD. DEPLOY. LEARN.                                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## 🧠 `about_me()`
+
+```python
+class Shatakshi:
+
+    role = "AI/ML Engineer"
+
+    focus = [
+        "Machine Learning",
+        "Generative AI",
+        "AI Agents",
+        "NLP",
+        "FastAPI",
+        "AI-powered applications"
+    ]
+
+    currently_learning = [
+        "Production AI systems",
+        "MLOps",
+        "RAG architectures",
+        "LLM applications",
+        "Backend engineering"
+    ]
+
+    philosophy = "Build. Deploy. Learn."
+
+    future_goal = "Teach what I learn and build in public."
+```
+
+I'm currently pursuing a **B.Tech in Computer Science Engineering with an AI/ML specialization at VIT Bhopal**, graduating in 2027.
+
+My interests sit at the intersection of:
+
+**Machine Learning × Generative AI × Backend Engineering**
+
+I especially enjoy building applications where the AI model is only one part of a larger system — with APIs, databases, validation, interfaces and deployment around it.
 
 ---
 
-## 🟥 FULL STACK — MERN + DJANGO
+# ⚙️ `tech_stack()`
 
-### 🍱 MealMind — AI Meal Planner
+### 🐍 Languages
 
-> *Stop wasting food. Start eating smart.*
+`Python` `Java` `C++` `C#` `SQL`
 
-Full-stack MERN app with AI-powered recipe suggestions from pantry items, JWT auth, calorie tracker, and live dashboard.
+### 🤖 Machine Learning
 
-**Stack:** `React.js` `Node.js` `Express` `MongoDB` `OpenRouter AI (Llama 4)` `JWT` `Vercel` `Render`
+`Scikit-learn` `Pandas` `NumPy` `NLP` `Transformers`
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://mealmind-zei5.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/mealmind)
+### ✨ Generative AI
 
-- 🤖 AI generates 3 recipes per pantry scan via OpenRouter (Llama 4)
-- 🧺 Pantry manager with expiry-aware filtering
-- 🔥 Calorie tracker with visual progress bar
-- 📊 Live dashboard — pantry items, meals logged, today's calories
-- ⚡ 8+ REST API endpoints · Sub-2s AI response · Sub-1.5s cold start
+`LLMs` `RAG` `LangChain` `LangGraph` `AI Agents` `Prompt Engineering`
 
----
+### 🚀 Backend & APIs
 
-### 📚 StudySync — AI Study Planner
+`FastAPI` `Flask` `REST APIs` `Pydantic` `SQLAlchemy`
 
-> *Study smarter, not harder.*
+### 🗄️ Databases
 
-AI-powered MERN app that generates personalized day-by-day study plans and MCQ quizzes from any subject or notes.
+`PostgreSQL` `MongoDB` `SQLite` `SQL Server` `Redis`
 
-**Stack:** `React.js` `Node.js` `Express` `MongoDB` `OpenRouter AI (Llama 4)` `JWT` `Vercel` `Render`
+### 🧪 MLOps / Deployment
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://studysync-teal.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/studysync)
+`MLflow` `Docker` `Model Serving` `Experiment Tracking`
 
-- 🤖 AI generates personalized day-by-day study schedules
-- 🧠 AI MCQ quiz generator with score review + explanations
-- ☑️ Visual progress tracker + exam countdown dashboard
-- 📊 Quiz history persisted in MongoDB across sessions
-- ⚡ 10+ REST API endpoints · Sub-800ms AI response time
+### 🌐 Full Stack
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `Postman` `Swagger/OpenAPI` `VS Code` `Visual Studio`
 
 ---
 
-### 🔍 GitHub Profile Explorer
+# 🚀 `featured_systems()`
 
-> *Any GitHub profile. Instant insights.*
+> A few things I've built while exploring AI, ML and intelligent applications.
 
-Search any GitHub user and explore profile details, repo stats, and language breakdown with real-time filtering.
+## 🔎 QueryMind
 
-**Stack:** `Next.js 16` `TypeScript` `Tailwind CSS` `GitHub REST API` `Vercel`
+**Natural Language → SQL → Analytics**
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://portfolio-4aky.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404)
+An AI-powered analytics application that allows users to interact with databases using natural language.
 
-- 🔍 Real-time search + filtering by language, stars, last updated
-- 📊 Language stat bars + repo cards + profile overview
-- ⚡ Optimized image handling via Next/Image · Deployed on Vercel
+```text
+USER QUESTION
+      ↓
+LLM SQL GENERATION
+      ↓
+SQL VALIDATION
+      ↓
+DATABASE
+      ↓
+RESULT ANALYSIS
+      ↓
+CHARTS + AI INSIGHTS
+```
 
----
+### What makes it interesting
 
-### 🛒 Vendora — Multi-Vendor E-Commerce
+* Natural-language-to-SQL generation
+* Schema-aware prompting
+* Read-only SQL validation
+* Database querying
+* AI-generated insights
+* Query history
+* Multi-turn context
+* Interactive visualizations
+* FastAPI backend
 
-> *A mini Amazon. Built from scratch.*
+**Stack:** Python · FastAPI · LLMs · SQL · React · Recharts · Docker
 
-Production-grade Django + React marketplace — multiple sellers, Razorpay payments, async email system, and scheduled inventory alerts.
-
-**Stack:** `Django` `Django REST Framework` `React 18` `Razorpay` `Celery` `Redis` `Celery Beat` `Gunicorn` `WhiteNoise` `Render` `Vercel`
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://your-vendora-url.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404)
-
-| What makes it production-grade | |
-|---|---|
-| 💳 Razorpay HMAC-SHA256 payment verification | No fake payments possible |
-| 🔒 `transaction.atomic()` stock deduction | Zero partial orders |
-| 👥 3 custom DRF permission classes | Role-based API security |
-| ⚡ Celery async email system | API never blocks on emails |
-| 📦 Low stock threshold alerts per product | Sellers never run out blind |
-
-**Numbers:** 15+ API endpoints · 3 user roles · 4 Django apps · 13 React pages · 2 async tasks + 1 scheduled
-
----
-
-### 📊 Social Media Analytics Dashboard *(In Progress)*
-
-> *Pull · Summarize · Visualize · Alert.*
-
-Django + Celery Beat pipeline pulling Twitter/YouTube API data, summarizing trends with LLMs, and sending topic alerts.
-
-**Stack:** `Django` `DRF` `Celery Beat` `Chart.js` `OpenAI`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404)
+**Repository:** `github.com/shatakshi-1404/querymind`
 
 ---
 
-## 🟩 AI / GENAI / AGENTIC AI
+## 🧠 RepoMind
 
-### ⚖️ Clause — Legal Document Simplifier
+**AI × Developer Tools**
 
-> *Understand before you sign.*
+An AI-powered developer-focused project exploring how intelligent systems can help developers understand and interact with software repositories.
 
-AI web app that transforms complex legal documents into plain English and flags risky clauses with color-coded severity badges.
+Areas explored include:
 
-**Stack:** `React 18` `FastAPI` `Llama 3.1 8B` `OpenRouter` `pdfplumber` `python-docx` `Render` `Vercel`
+`Repository Understanding` · `Code Analysis` · `LLMs` · `AI`
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://legal-simplifier-five.vercel.app)
-[![Backend API](https://img.shields.io/badge/Backend_API-181717?style=flat-square)](https://legal-simplifier-1.onrender.com)
-
-- 🔴 Risk Detection: High / Medium / Low / Standard severity badges
-- 📋 Supports PDF, DOCX, TXT upload
-- 📊 Document-level overall risk score at a glance
-- ⚠️ Key warnings summary before you sign
+**Repository:** `github.com/shatakshi-1404/repomind`
 
 ---
 
-### 📈 Smart Inventory Forecaster
+## 💳 CreditLens
 
-> *Predicts demand. Prevents stockouts.*
+**AI/ML × Credit Risk**
 
-Full-stack demand forecasting platform for Indian SMBs — compares ARIMA, Facebook Prophet, and LSTM for daily product-level sales.
+An AI/ML application focused on credit-risk assessment and model-driven financial insights.
 
-**Stack:** `FastAPI` `Prophet` `PyTorch LSTM` `statsmodels` `Chart.js` `Render`
+The project represents my interest in applying machine learning to practical decision-support systems.
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-E50914?style=flat-square)](https://smart-inventory-forecaster-mt4z.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/inventory-forecaster)
-
-- 🪔 Models Indian retail patterns — Diwali, Holi, Dussehra festival spikes
-- 📉 ARIMA auto order selection via AIC grid search
-- 🧠 Custom PyTorch LSTM with multi-step forecasting
-- 📊 MAE / RMSE / MAPE model comparison + procurement recommendations
+**Repository:** `github.com/shatakshi-1404/CreditLens`
 
 ---
 
-### 🧠 End-to-End ML Pipeline (MLOps)
+## ⚖️ Clause — Legal Document Simplifier
 
-> *Churn prediction. Experiment tracking. CI/CD automation.*
+**NLP × Document Intelligence**
 
-Production-grade churn prediction with MLflow tracking, FastAPI serving, React dashboard, and GitHub Actions CI/CD.
+An AI-powered application designed to make complex legal language easier to understand.
 
-**Stack:** `Python` `FastAPI` `MLflow` `scikit-learn` `SMOTE` `React` `Recharts` `Docker` `GitHub Actions` `Pydantic`
+The project explores how NLP and AI can transform difficult documents into clearer, more accessible explanations.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404)
+**Stack:** Python · AI/NLP · Web Application
 
-- 📊 ROC-AUC > 0.85 — Logistic Regression, Random Forest, Gradient Boosting with SMOTE
-- 🧪 MLflow logs hyperparameters, F1/AUC/Precision/Recall + auto best-model selection
-- 🐳 Dockerized · pytest + Ruff lint on every push via GitHub Actions
-- 📡 `/predict` `/train` `/experiments` FastAPI endpoints with Pydantic validation
+**Repository:** `github.com/shatakshi-1404/legal-simplifier`
 
----
-
-### 📄 AI Resume Analyzer
-
-> *ATS scoring meets semantic understanding.*
-
-3-tier microservice: React/TS frontend → Node.js REST backend → FastAPI AI service with spaCy NLP + HuggingFace Transformers.
-
-**Stack:** `React` `TypeScript` `Node.js` `FastAPI` `spaCy` `HuggingFace` `TF-IDF` `MongoDB` `Docker`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/ai-resume-analyzer)
-
-- 🎯 ~88% keyword-match accuracy — 50+ technical/soft skill entities extracted per resume
-- 🤗 HuggingFace semantic matching — ~30% relevance improvement over keyword-only baseline
-- ⚡ PDF/DOCX processed under 1.2s · Full MongoDB analysis history per user
+**Live Demo:** `legal-simplifier-five.vercel.app`
 
 ---
 
-## 🟨 QA AUTOMATION *(Secondary Specialization)*
+# 🏗️ `how_i_build()`
 
-> Full-stack engineering background means I know exactly where bugs hide — I test at the API level, not just the UI.
+I like thinking about AI applications as complete systems rather than isolated models.
 
-<table>
+```text
+                 ┌────────────────────┐
+                 │       USER         │
+                 └─────────┬──────────┘
+                           ↓
+                 ┌────────────────────┐
+                 │     FRONTEND       │
+                 │ React / Next.js    │
+                 └─────────┬──────────┘
+                           ↓
+                 ┌────────────────────┐
+                 │      FASTAPI       │
+                 │    REST / Async    │
+                 └─────────┬──────────┘
+                           ↓
+              ┌────────────┴────────────┐
+              ↓                         ↓
+      ┌───────────────┐         ┌──────────────┐
+      │ AI / ML LAYER │         │   DATABASE   │
+      │               │         │              │
+      │ ML / LLM /    │         │ PostgreSQL   │
+      │ RAG / Agents  │         │ MongoDB      │
+      └───────┬───────┘         └──────────────┘
+              ↓
+      ┌────────────────┐
+      │   DEPLOYMENT   │
+      │ Docker / Cloud │
+      └────────────────┘
+```
 
-<tr>
-<td width="33%" valign="top">
+My goal is to become stronger at every layer:
 
-### 🎭 Playwright BDD Framework
-`Python` `Playwright` `PyTest-BDD` `Gherkin` `GitHub Actions`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/playwright-bdd)
-
-- 10 Gherkin scenarios (Login, Cart, Checkout)
-- CI/CD auto-triggers on every push
-- Smoke + Regression tag-based runs
-- `--headed` mode for visual debugging
-
-</td>
-<td width="33%" valign="top">
-
-### 🔬 Selenium POM Framework
-`Python` `Selenium 4.x` `PyTest` `WebDriverManager` `POM`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/saucedemo-selenium)
-
-- 6 smoke test cases with POM architecture
-- Auto-screenshot capture on test failure
-- HTML reports per run
-- WebDriverManager — zero manual driver setup
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 REST API Test Framework
-`Python` `Requests` `PyTest` `pytest-html`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/shatakshi-1404/reqres-api-tests)
-
-- 21 tests covering CRUD + auth flows
-- Reusable `APIClient` wrapper (~60% less boilerplate)
-- Positive + negative + edge case coverage
-- pytest-html reports on every run
-
-</td>
-</tr>
-
-</table>
+**model → backend → system → deployment**
 
 ---
 
-## ⚙️ TECH STACK
+# 💼 `experience()`
 
-<div align="center">
+### MPOnline — Software Engineering Intern
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Advanced Software Engineering & Development Internship**
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**May 2026 — July 2026**
 
-**AI / ML / GenAI**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-E50914?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-000000?style=flat-square)
+During the internship I worked across software engineering fundamentals and modern application development.
 
-**Databases & Infra**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+### Areas covered
 
-**QA**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+* Java
+* C++
+* C#
+* Python
+* OOP
+* DBMS / RDBMS
+* SQL
+* SDLC / MVC
+* Git / GitHub
+* Debugging
+* Testing
+* CRUD application development
+* AI/ML fundamentals
+* AI Agents
+* Retrieval-Augmented Generation
+* n8n automation
 
-</div>
+### Live Software Project
 
----
+Built a **Library Management System** involving:
 
-## 🏆 ACHIEVEMENTS
+`Backend Development` · `Database Integration` · `CRUD` · `Business Logic` · `Testing`
 
-<div align="center">
+### Development tools
 
-| Achievement | Details |
-|---|---|
-| 🤖 **IBM Generative AI Professional** | Score **99/100** — Built Hotel Sentiment Analyser on IBM Watsonx, cutting manual review time by ~60% |
-| ☁️ **Oracle Cloud Infrastructure (OCI)** | Data Science Professional Certification |
-| 🎓 **NPTEL Elite Certification** | IIT KGP |
-| 💻 **500+ DSA Problems** | LeetCode & GeeksforGeeks — Arrays, DP, Trees, Graphs, Sliding Window |
-| 🎙️ **Anchor & Content Team Lead** | Ganga Bhumi Club — 3+ events, 200+ attendees per event |
-| 🎪 **Inter-college Tech Fest Organiser** | Coordinated 500+ attendees across multi-college events |
-
-</div>
+`SQL Server` `ASP.NET Core` `React` `Docker` `Postman` `Swagger/OpenAPI` `Node.js` `Git` `GitHub`
 
 ---
 
-## 📊 GITHUB STATS
+# 🏆 `achievements()`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shatakshi-1404&show_icons=true&theme=dark&bg_color=141414&border_color=E50914&icon_color=E50914&title_color=ffffff&text_color=b3b3b3" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-1404&layout=compact&theme=dark&bg_color=141414&border_color=E50914&title_color=ffffff&text_color=b3b3b3" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shatakshi-1404&theme=dark&background=141414&ring=E50914&fire=E50914&currStreakLabel=ffffff&border=E50914" />
-
-</div>
+```text
+╭──────────────────────────────────────────────────╮
+│                  ACHIEVEMENTS                     │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  🏆 Flipkart GRiD 7.0     → Round 1 Qualified    │
+│  🏆 Flipkart GRiD 8.0     → Round 1 Qualified    │
+│  🥇 SolVIT Hackathon 2024 → Finalist              │
+│  💻 TCS CodeVita          → Round 1 Qualifier     │
+│                           → Global Rank: 12,222   │
+│                                                  │
+╰──────────────────────────────────────────────────╯
+```
 
 ---
 
-<div align="center">
+# 📜 `certifications()`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer&text=Open%20to%20Internships%20%26%20Full-Time%20Roles&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+### ☁️ Oracle Cloud Infrastructure
 
-*Full Stack AI Engineer · MERN · Django · GenAI · Agentic AI · QA*
+**OCI Data Science Professional Certification**
 
-**[shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com) · Jabalpur, India**
+### 🤖 IBM Generative AI Professional Certification
 
-</div>
+**Score: 99/100**
+
+Built a **Hotel Sentiment Analyzer** as part of the certification work.
+
+---
+
+# 🎓 `education()`
+
+### Vellore Institute of Technology — Bhopal
+
+**B.Tech — Computer Science Engineering**
+
+**AI/ML Specialization**
+
+2023 — 2027
+
+**CGPA: 8.56 / 10**
+
+### School Education
+
+**Christ Church Girls' Senior Secondary School, Jabalpur**
+
+CBSE Class XII — 77.2% — 2022
+
+CBSE Class X — 89% — 2020
+
+---
+
+# 🧪 `currently_building()`
+
+I'm currently exploring:
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENT EXPERIMENTS              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  → Production-ready AI applications         │
+│  → RAG systems                               │
+│  → AI Agent architectures                    │
+│  → LLM-powered applications                  │
+│  → FastAPI backend systems                   │
+│  → MLOps & model deployment                  │
+│  → Better software engineering fundamentals  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+The long-term goal is simple:
+
+> Build AI systems that actually solve problems.
+
+---
+
+# 💻 `coding()`
+
+### LeetCode
+
+I practice DSA and problem solving primarily using **Java**.
+
+**Profile:** `leetcode.com/u/shatakshi-1404`
+
+### GitHub
+
+Most of my engineering work lives here.
+
+**Profile:** `github.com/shatakshi-1404`
+
+---
+
+# 📚 `teaching_mode()`
+
+One thing I want to build alongside my engineering career is a space for **teaching**.
+
+I enjoy explaining things I've learned, especially programming and technical concepts.
+
+Eventually, I'd like to start a YouTube channel around:
+
+```text
+DSA
+Java
+AI / ML
+Project Building
+Learning in Public
+Tech + Vlogs
+```
+
+For now:
+
+**LEARN → BUILD → UNDERSTAND → TEACH**
+
+---
+
+# 🌱 `beyond_code()`
+
+Outside of coding, I enjoy:
+
+* Teaching
+* Learning new technologies
+* Building side projects
+* Exploring AI tools
+* Planning future content
+* Vlogging
+* Sharing what I learn
+
+I believe learning becomes more meaningful when you can eventually explain it to someone else.
+
+---
+
+# 📊 `github_activity()`
+
+I use GitHub as my engineering workspace — not just as a place to store code.
+
+My goal is to continuously improve:
+
+**Code Quality → Architecture → Documentation → Testing → Deployment**
+
+If you're visiting my profile for the first time, check out my featured repositories above.
+
+---
+
+# 🎯 `career_goal()`
+
+I'm currently interested in opportunities around:
+
+**AI/ML Engineering**
+
+**Applied AI**
+
+**Machine Learning Engineering**
+
+**Generative AI**
+
+**AI Agents**
+
+**Python / FastAPI Backend Engineering**
+
+I'm especially interested in teams where I can work on real products, learn from experienced engineers and contribute to systems that use AI meaningfully.
+
+---
+
+# 📬 `connect()`
+
+If you're building something interesting in AI/ML, I'd love to connect.
+
+**LinkedIn:** Shatakshi Prasad
+
+**GitHub:** shatakshi-1404
+
+**LeetCode:** shatakshi-1404
+
+**Email:** [shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com)
+
+---
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│             BUILD. DEPLOY. LEARN.          │
+│                                            │
+│       AI/ML Engineer in progress...        │
+│                                            │
+│             status: evolving                │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+<p align="center">
+  <i>Built with curiosity, code & too many ideas.</i>
+</p>
