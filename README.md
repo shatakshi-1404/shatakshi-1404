@@ -31,7 +31,7 @@ A local-first developer tool that helps developers analyze code quality, identif
 
 **Tech stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Docker
 
-**[🌐 Live Demo](ADD_CODESCOPE_LIVE_URL_HERE) · [💻 GitHub Repository](https://github.com/shatakshi-1404/codescope)**
+**[🌐 Live Demo](https://codescope.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/codescope)**
 
 ### 2. InterviewArena — Interview Preparation Platform
 
@@ -46,7 +46,7 @@ A full-stack interview preparation platform combining coding practice, assessmen
 
 **Tech stack:** Python · FastAPI · React · TypeScript · PostgreSQL · scikit-learn
 
-**[🌐 Live Demo](ADD_INTERVIEWARENA_LIVE_URL_HERE) · [💻 GitHub Repository](https://github.com/shatakshi-1404/interview-arena)**
+**[🌐 Live Demo](https://interview-arena-qmwqoxb1w-shatakshi6.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/interview-arena)**
 
 ---
 
@@ -66,7 +66,7 @@ Contributed to an open-source CLI designed to simplify LLM fine-tuning workflows
 
 **Technologies:** Python · pytest · Ruff · PyTorch
 
-**[View Repository](ADD_SOUP_REPOSITORY_URL_HERE) · [View Merged Pull Request](ADD_MERGED_PR_URL_HERE)**
+**[View Repository](https://github.com/shatakshi-1404/Soup) · [View Merged Pull Request](https://trysoup.dev/)**
 
 *The follow-up contribution will be marked as completed only after its PR is merged.*
 
