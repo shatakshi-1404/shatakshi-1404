@@ -46,7 +46,7 @@ A full-stack interview preparation platform combining coding practice, assessmen
 
 **Tech stack:** Python · FastAPI · React · TypeScript · PostgreSQL · scikit-learn
 
-**[🌐 Live Demo](https://interview-arena-qmwqoxb1w-shatakshi6.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/interview-arena)**
+**[🌐 Live Demo](https://interview-arena-ashy.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/interview-arena)**
 
 ---
 
