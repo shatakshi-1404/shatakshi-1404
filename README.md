@@ -1,128 +1,124 @@
-# Hi, I'm Shatakshi Prasad 👋
+<div align="center">
 
-### Software Engineering · Backend Systems · Applied AI
+# Hi, I'm Shatakshi 👋
 
-Computer Science student specializing in AI/ML at **VIT Bhopal University** (2023–2027), focused on building reliable backend systems, full-stack applications, and intelligent software products.
+**Full-stack engineer who ships products and tests them like she'll be on call for them.**
 
-I enjoy turning ideas into working software—from designing APIs and databases to integrating machine learning into practical applications.
+Final-year B.Tech CSE (AI/ML) @ VIT Bhopal · Python · FastAPI · React · PostgreSQL
 
-- 💻 Building full-stack products with **Python, FastAPI, React, TypeScript, and PostgreSQL**
-- 🧠 Exploring **Machine Learning, Generative AI, RAG, and AI Agents**
-- 🌱 Contributing to open-source projects and learning through code reviews
-- 🚀 Building and deploying real-world software applications
-- 🎯 Interested in **SDE, Backend Engineer, and AI Engineer** opportunities
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A63D2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shatakshi6.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-prasad-9104772b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shatakshi-1404)
+[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatakshiravaneshwarprasad@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/shatakshi-prasad-9104772b8/) · [LeetCode](https://leetcode.com/u/shatakshi-1404/) · [GitHub](https://github.com/shatakshi-1404)
+</div>
+
+---
+
+## 🧭 About Me
+
+I build full-stack products where the **backend rules are enforced on the server**, not hoped for on the client: deadlines that auto-submit, pipeline stages that can't be skipped, and auth that holds up under review.
+
+- 🎓 B.Tech CSE (AI/ML), VIT Bhopal, **CGPA 8.56**, batch of 2027
+- 🏛️ Interned at **MPOnline Limited** (a Govt. of MP and TCS joint venture)
+- 🤝 Merged open-source contributor to an LLM fine-tuning CLI and an MCP project
+- 🔐 Security-minded by default: Argon2, HttpOnly JWT cookies, RBAC, rate limiting, audit logs
+- 🎯 Currently looking for **SDE / Backend / Full-Stack / Applied AI** internships and 2027 roles
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. CodeScope — Codebase Health & Static Analysis
+### 🧑‍💼 HireFlow AI: ATS with AI Resume Analysis
+A full-stack applicant tracking system, deployed and tested.
+- Candidate search, CSV import, drag-and-drop pipeline, interview scheduling, funnel analytics
+- Groq LLMs for resume parsing and interview-question generation, with **recruiter review before anything is saved**
+- Job-match scoring built on **TF-IDF and a weighted formula**, deliberately independent of LLM output so it stays explainable
+- Stage transitions guarded by server-side validation, **row locking**, and audit logs
+- **127 backend + 40 frontend tests**, Alembic migrations, Docker Compose
 
-A local-first developer tool that helps developers analyze code quality, identify potential issues, and prioritize technical debt.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` `Docker`
 
-**Key features**
-- Codebase analysis and repository health scoring
-- Issue triage, analysis history, and audit logging
-- Authentication and role-based access control
-- Similar-issue clustering using TF-IDF and cosine similarity
-- Python AST analysis and heuristic JavaScript/TypeScript analysis
+### 🔬 CodeScope: Codebase Health & Static Analysis
+A local-first platform that scores code on maintainability, complexity, and potential security issues.
+- Python **AST analysis** plus JS/TS heuristics
+- Repository health scoring, issue triage, analysis history, **TF-IDF/cosine-similarity issue clustering**
+- JWT auth with Argon2, rotating refresh tokens, four-role access control, audit logging
+- Dockerized, with GitHub Actions CI
 
-**Tech stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Docker
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `SQLAlchemy` `Docker` `GitHub Actions`
 
-**[🌐 Live Demo](https://codescope.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/codescope)**
+### 🏟️ InterviewArena: Interview Preparation Platform
+Timed assessments, coding challenges, SQL practice, and mock interviews in one place.
+- **Server-enforced deadlines** with autosave and automatic timeout submission
+- Structured assessment reports and performance analytics
+- Logistic-regression **practice-readiness score** with personalized recommendations
 
-### 2. InterviewArena — Interview Preparation Platform
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `scikit-learn`
 
-A full-stack interview preparation platform combining coding practice, assessments, performance analytics, and personalized recommendations.
-
-**Key features**
-- Timed assessments and interview practice
-- Programming and SQL practice
-- Performance analytics and weak-topic identification
-- Logistic-regression-based practice-readiness scoring
-- Personalized practice recommendations
-
-**Tech stack:** Python · FastAPI · React · TypeScript · PostgreSQL · scikit-learn
-
-**[🌐 Live Demo](https://interview-arena-ashy.vercel.app/) · [💻 GitHub Repository](https://github.com/shatakshi-1404/interview-arena)**
-
----
-
-## 🌱 Open-Source Contributions
-
-### Soup — PyTorch-Based LLM Fine-Tuning CLI
-
-Contributed to an open-source CLI designed to simplify LLM fine-tuning workflows.
-
-**Contribution: `warmup.py` unit tests**
-
-- Wrote **15 unit tests from scratch** for automatic warmup-step scheduling.
-- Covered typical training configurations, zero warmup ratio, minimum and maximum bounds, edge cases, and input validation.
-- Addressed code-review feedback across **four review rounds**, including Ruff lint and formatting issues.
-- Successfully merged the contribution with maintainer approval.
-- Selected for a follow-up contribution to `run_cost.py`.
-
-**Technologies:** Python · pytest · Ruff · PyTorch
-
-**[View Repository](https://github.com/shatakshi-1404/Soup) · [View Merged Pull Request](https://trysoup.dev/)**
-
-*The follow-up contribution will be marked as completed only after its PR is merged.*
+> 🔗 Repo and live demo links for each project are on my [portfolio](https://portfolio-shatakshi6.vercel.app) and [GitHub profile](https://github.com/shatakshi-1404?tab=repositories).
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Experience
 
-**Languages:** Python · Java · SQL
-
-**Backend:** FastAPI · REST APIs · Pydantic · SQLAlchemy · Authentication & Authorization
-
-**Frontend:** React · TypeScript · JavaScript · HTML · CSS
-
-**Databases:** PostgreSQL · Relational Database Design · SQL
-
-**AI / ML:** scikit-learn · Machine Learning Fundamentals · Generative AI · RAG · AI Agents
-
-**Tools:** Git · GitHub · Docker · Linux · pytest · Ruff · GitHub Actions
+**Advanced Software Engineering & Development Intern**, *MPOnline Limited* · May 2026 – Jul 2026
+Built a full-stack **Library Management System** (React, FastAPI, PostgreSQL) with REST APIs for catalog management, borrow/return workflows, and availability tracking, all with server-side validation.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🌍 Open Source
 
-- IBM Generative AI Professional Certificate — 99/100
-- Oracle Cloud Infrastructure Data Science Professional Certification
-- Flipkart GRiD 7.0 & 8.0 — Round 1 qualified
-- SolVIT Hackathon 2024 — Finalist
-- LeetCode — Practicing Data Structures and Algorithms in Java
-
----
-
-## 🎓 Education
-
-**VIT Bhopal University**
-
-B.Tech in Computer Science and Engineering — AI/ML Specialization
-
-2023–2027 · CGPA: 8.56/10
+| Project | What I did | Status |
+|---|---|---|
+| **Soup**, PyTorch-based LLM fine-tuning CLI | Added 15 unit tests for the `warmup.py` auto-warmup-steps helper (zero ratio, min/max bounds, edge cases, validation); fixed Ruff issues; addressed feedback over **four review rounds** | ✅ PR merged |
+| **Mealie MCP** | Documented local Mealie setup and environment variables so contributors can reproduce the live test suite | ✅ Commit merged |
 
 ---
 
-## 📈 GitHub Activity
+## 🛠️ Tech Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shatakshi-1404)](https://github.com/shatakshi-1404)
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-shatakshi--1404-181717?logo=github&logoColor=white)](https://github.com/shatakshi-1404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatakshi-prasad-9104772b8/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/shatakshi-1404/)
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/-Alembic-555?logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Security** | JWT · Argon2 · RBAC · Rate limiting |
+| **AI / ML** | scikit-learn · TF-IDF · LLM integration (Groq) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/-Ruff-D7FF64?logo=ruff&logoColor=black) |
+| **Core CS** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Achievements & Certifications
 
-I'm interested in opportunities where I can contribute to software engineering, backend development, and AI-enabled products while continuing to grow as an engineer.
+- 🧩 **300+ LeetCode problems** solved in Java and Python
+- 🥇 Qualified **Round 1** in Flipkart GRiD **7.0** and **8.0**
+- 🏁 **TCS CodeVita**: qualified for Round 2, global rank **12222**
+- 🤖 **IBM Generative AI Professional Certificate** (99/100)
+- ☁️ **Oracle Cloud Infrastructure Data Science Professional**
 
-**Open to internships and entry-level opportunities.**
+---
 
-[Connect on LinkedIn](https://www.linkedin.com/in/shatakshi-prasad-9104772b8/) · [Explore My Projects](https://github.com/shatakshi-1404)
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Shatakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shatakshi-1404&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshi-1404&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **internships and full-time roles** in backend, full-stack, and applied AI.
+
+📧 [shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com) · 🌐 [Portfolio](https://portfolio-shatakshi6.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/shatakshi-prasad-9104772b)
+
+<div align="center">
+
+*Built with FastAPI, tested with pytest, fueled by chai.* ☕
+
+</div>
