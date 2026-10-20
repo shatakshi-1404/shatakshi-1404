@@ -6,7 +6,7 @@
 
 Final-year B.Tech CSE (AI/ML) @ VIT Bhopal · Python · FastAPI · React · PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A63D2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shatakshi6.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A63D2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-7zow2a22u-shatakshiprasad1404-9254.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-prasad-9104772b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shatakshi-1404)
 [![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatakshiravaneshwarprasad@gmail.com)
@@ -30,6 +30,8 @@ I build full-stack products where the **backend rules are enforced on the server
 ## 🚀 Featured Projects
 
 ### 🧑‍💼 HireFlow AI: ATS with AI Resume Analysis
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/shatakshi-1404/hireflow-ai-ats) [![Live Demo](https://img.shields.io/badge/Live-Demo-2EA043?logo=vercel&logoColor=white)](https://hireflow-ai-ats-7hmi.vercel.app)
+
 A full-stack applicant tracking system, deployed and tested.
 - Candidate search, CSV import, drag-and-drop pipeline, interview scheduling, funnel analytics
 - Groq LLMs for resume parsing and interview-question generation, with **recruiter review before anything is saved**
@@ -40,6 +42,8 @@ A full-stack applicant tracking system, deployed and tested.
 `React` `TypeScript` `FastAPI` `PostgreSQL` `scikit-learn` `Docker`
 
 ### 🔬 CodeScope: Codebase Health & Static Analysis
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/shatakshi-1404/codescope) [![Live Demo](https://img.shields.io/badge/Live-Demo-2EA043?logo=vercel&logoColor=white)](https://codescope.vercel.app)
+
 A local-first platform that scores code on maintainability, complexity, and potential security issues.
 - Python **AST analysis** plus JS/TS heuristics
 - Repository health scoring, issue triage, analysis history, **TF-IDF/cosine-similarity issue clustering**
@@ -49,6 +53,8 @@ A local-first platform that scores code on maintainability, complexity, and pote
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `SQLAlchemy` `Docker` `GitHub Actions`
 
 ### 🏟️ InterviewArena: Interview Preparation Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/shatakshi-1404/interview-arena) [![Live Demo](https://img.shields.io/badge/Live-Demo-2EA043?logo=vercel&logoColor=white)](https://interview-arena-ashy.vercel.app)
+
 Timed assessments, coding challenges, SQL practice, and mock interviews in one place.
 - **Server-enforced deadlines** with autosave and automatic timeout submission
 - Structured assessment reports and performance analytics
@@ -56,7 +62,7 @@ Timed assessments, coding challenges, SQL practice, and mock interviews in one p
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `scikit-learn`
 
-> 🔗 Repo and live demo links for each project are on my [portfolio](https://portfolio-shatakshi6.vercel.app) and [GitHub profile](https://github.com/shatakshi-1404?tab=repositories).
+> 🔗 More of my work is on my [portfolio](https://portfolio-7zow2a22u-shatakshiprasad1404-9254.vercel.app/) and [GitHub profile](https://github.com/shatakshi-1404?tab=repositories).
 
 ---
 
@@ -71,8 +77,8 @@ Built a full-stack **Library Management System** (React, FastAPI, PostgreSQL) wi
 
 | Project | What I did | Status |
 |---|---|---|
-| **Soup**, PyTorch-based LLM fine-tuning CLI | Added 15 unit tests for the `warmup.py` auto-warmup-steps helper (zero ratio, min/max bounds, edge cases, validation); fixed Ruff issues; addressed feedback over **four review rounds** | ✅ PR merged |
-| **Mealie MCP** | Documented local Mealie setup and environment variables so contributors can reproduce the live test suite | ✅ Commit merged |
+| **Soup**, PyTorch-based LLM fine-tuning CLI | Added 15 unit tests for the `warmup.py` auto-warmup-steps helper (zero ratio, min/max bounds, edge cases, validation); fixed Ruff issues; addressed feedback over **four review rounds** | [✅ PR merged](https://github.com/MakazhanAlpamys/Soup/pull/274) |
+| **Mealie MCP** | Documented local Mealie setup and environment variables so contributors can reproduce the live test suite | [✅ Commit merged](https://github.com/shatakshi-1404/mealie-mcp/commit/180cc05392) |
 
 ---
 
@@ -115,7 +121,7 @@ Built a full-stack **Library Management System** (React, FastAPI, PostgreSQL) wi
 
 I'm open to **internships and full-time roles** in backend, full-stack, and applied AI.
 
-📧 [shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com) · 🌐 [Portfolio](https://portfolio-shatakshi6.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/shatakshi-prasad-9104772b)
+📧 [shatakshiravaneshwarprasad@gmail.com](mailto:shatakshiravaneshwarprasad@gmail.com) · 🌐 [Portfolio](https://portfolio-7zow2a22u-shatakshiprasad1404-9254.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/shatakshi-prasad-9104772b)
 
 <div align="center">
 
