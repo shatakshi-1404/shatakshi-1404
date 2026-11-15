@@ -142,7 +142,7 @@ I work across both **Software Engineering and AI Engineering**. Here are five pr
 
 ## 🏆 Achievements
 
-- **LeetCode:** 300+ problems solved | 1600+ rating.
+- **LeetCode:** 200+ problems solved | 1600+ rating.
 - **TCS CodeVita:** Qualified for Round 2 | Global Rank 12,222.
 - **Flipkart GRiD 7.0 & 8.0:** Qualified for Round 1.
 - **IBM Generative AI Professional Certificate:** Scored 99/100.
