@@ -29,7 +29,7 @@ I'm interested in solving real-world engineering problems by combining strong so
 - 💻 Focused on **Software Engineering, Backend Development and Applied AI**
 - ⚙️ Building full-stack applications, REST APIs, backend systems and database-driven platforms
 - 🤖 Exploring **Generative AI, RAG, LangChain, LangGraph and Agentic AI**
-- 🧠 Solved **300+ problems on LeetCode**, with a rating of **1600+**
+- 🧠 Solved **200+ problems on LeetCode**, with a rating of **1600+**
 - 🌱 Interested in distributed systems, system design, AI engineering and production-oriented software
 - 🤝 Open to opportunities in **SDE, Backend, Full-Stack, Applied AI and GenAI Engineering**
 
