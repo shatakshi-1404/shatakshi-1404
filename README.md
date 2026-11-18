@@ -1,10 +1,10 @@
 # Hey, I'm Shatakshi Prasad 👋
 
-### Software Engineer & AI Developer
+### Software Engineer | AI Engineer | Machine Learning Enthusiast
 
-I build **scalable software systems and AI-powered applications** — from backend APIs and full-stack platforms to RAG pipelines and autonomous multi-agent workflows.
+I build **scalable software systems and practical AI applications** — from backend architectures and full-stack platforms to RAG pipelines, intelligent agents, and machine learning models.
 
-I'm interested in solving real-world engineering problems by combining strong software fundamentals with practical AI.
+My interests lie at the intersection of **Software Engineering, Applied AI, Machine Learning, and Deep Learning**. I enjoy building projects that combine strong engineering fundamentals with intelligent, real-world solutions.
 
 <p align="left">
   <a href="https://portfolio-three-tau-074aauteov.vercel.app/">
@@ -17,7 +17,7 @@ I'm interested in solving real-world engineering problems by combining strong so
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/shatakshi-1404">
-    <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -25,19 +25,21 @@ I'm interested in solving real-world engineering problems by combining strong so
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI/ML), **VIT Bhopal University** — 2023–2027
-- 💻 Focused on **Software Engineering, Backend Development and Applied AI**
-- ⚙️ Building full-stack applications, REST APIs, backend systems and database-driven platforms
-- 🤖 Exploring **Generative AI, RAG, LangChain, LangGraph and Agentic AI**
-- 🧠 Solved **200+ problems on LeetCode**, with a rating of **1600+**
-- 🌱 Interested in distributed systems, system design, AI engineering and production-oriented software
-- 🤝 Open to opportunities in **SDE, Backend, Full-Stack, Applied AI and GenAI Engineering**
+- 🎓 B.Tech in Computer Science & Engineering (AI/ML), **VIT Bhopal University** — 2023–2027.
+- 💻 Interested in **Software Engineering, Backend Development and AI Engineering**.
+- ⚙️ Building full-stack applications, REST APIs, backend systems and database-driven platforms.
+- 🤖 Exploring **Generative AI, RAG, LLMs, LangChain, LangGraph and Agentic AI**.
+- 🧠 Working with machine learning algorithms, neural networks and deep learning architectures.
+- 📈 Solved **200+ problems on LeetCode**.
+- 🌱 Continuously learning about system design, distributed systems, model evaluation and production-oriented AI.
+- 🤝 Open to opportunities in **SDE, Backend Engineering, Applied AI, GenAI, ML and AI Engineering**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -47,6 +49,7 @@ I'm interested in solving real-world engineering problems by combining strong so
 </p>
 
 ### Backend & Database Engineering
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
@@ -57,7 +60,8 @@ I'm interested in solving real-world engineering problems by combining strong so
   <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" />
 </p>
 
-### AI, Machine Learning & Agentic Systems
+### AI Engineering & Generative AI
+
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge" />
@@ -65,12 +69,25 @@ I'm interested in solving real-world engineering problems by combining strong so
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic_AI-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Search-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+</p>
+
+### Machine Learning & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -79,6 +96,7 @@ I'm interested in solving real-world engineering problems by combining strong so
 </p>
 
 ### Engineering, Security & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -91,26 +109,49 @@ I'm interested in solving real-world engineering problems by combining strong so
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-I work across both **Software Engineering and AI Engineering**. Here are five projects that demonstrate different parts of that skill set.
+I organize my work into three engineering areas: **Software Engineering, AI Engineering, and Machine Learning & Deep Learning.**
 
-| Project | Category | Description | Tech Stack |
-|---|---|---|---|
-| **[HireFlow AI](https://github.com/shatakshi-1404/hireflow-ai-ats)** | Full-Stack SDE + Applied AI | An applicant tracking system with recruiter workflows, LLM-powered resume parsing, interview question generation and explainable job matching. | React, TypeScript, FastAPI, PostgreSQL, Groq, scikit-learn, Docker |
-| **[InterviewArena](https://github.com/shatakshi-1404/interview-arena)** | Full-Stack SDE + Applied ML | An interview preparation platform featuring timed assessments, coding challenges, SQL practice, mock interviews and performance analytics. | React, TypeScript, FastAPI, PostgreSQL, scikit-learn |
-| **[CodeScope](https://github.com/shatakshi-1404/codescope)** | SDE + Developer Tooling | A codebase health and static analysis platform with code quality and security rules, maintainability scoring, issue tracking and similarity-based clustering. | Python, FastAPI, React, TypeScript, PostgreSQL, Docker |
-| **[LegalNexus](https://github.com/shatakshi-1404/legal-nexus)** | Agentic AI + RAG | A multi-agent legal document intelligence system for contract analysis, hybrid retrieval, risky clause detection and evidence-verified reporting. | FastAPI, LangGraph, PostgreSQL, pgvector, React, Groq |
-| **[DevTeam AI](https://github.com/shatakshi-1404/dev-team-ai)** | Agentic AI + AI Software Engineering | An AI software-engineering team that plans applications, generates code, reviews changes, runs tests in an isolated Docker sandbox and attempts bounded repairs with human approval. | React, TypeScript, FastAPI, LangGraph, LangChain, PostgreSQL, Docker, Groq |
+## 1. 💻 Software Engineering & Full-Stack Development
 
-### 🔍 Project Focus
+Projects focused on backend architecture, API development, database engineering, authentication, application workflows and scalable software systems.
 
-- **Backend engineering:** REST API design, authentication, authorization, database modelling, validation and testing.
-- **Full-stack development:** Building complete applications with React, TypeScript, FastAPI and PostgreSQL.
-- **Applied AI:** Integrating LLMs and ML models into practical software workflows.
-- **RAG systems:** Document ingestion, embeddings, vector search, hybrid retrieval and grounded responses.
-- **Agentic AI:** Multi-agent orchestration, structured outputs, workflow routing, tool execution and human-in-the-loop approvals.
-- **Engineering reliability:** Docker, automated tests, CI workflows, security controls and isolated execution environments.
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[HireFlow AI ATS](https://github.com/shatakshi-1404/hireflow-ai-ats)** | An applicant tracking system featuring recruiter workflows, AI-powered resume parsing, interview question generation and explainable candidate-job matching. | React, TypeScript, FastAPI, PostgreSQL, Groq, scikit-learn, Docker |
+| **[InterviewArena](https://github.com/shatakshi-1404/interview-arena)** | An interview preparation platform featuring timed assessments, coding challenges, SQL practice, mock interviews and performance analytics. | React, TypeScript, FastAPI, PostgreSQL, scikit-learn |
+| **[CodeScope](https://github.com/shatakshi-1404/codescope)** | A codebase analysis platform featuring code quality and security rules, maintainability scoring, issue tracking and similarity-based clustering. | Python, FastAPI, React, TypeScript, PostgreSQL, Docker |
+
+## 2. 🤖 AI Engineering & Generative AI
+
+Projects focused on building practical AI applications, LLM-powered systems, retrieval pipelines, intelligent document processing and grounded AI workflows.
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Corpus RAG](https://github.com/shatakshi-1404/corpus-RAG)** | A Retrieval-Augmented Generation project focused on document ingestion, knowledge retrieval and context-grounded question answering. | Python, RAG, LLMs, Embeddings |
+| **[PennyWise AI](https://github.com/shatakshi-1404/penny-wise-AI)** | An AI-powered personal finance application combining machine learning-based expense classification with LLM-powered financial assistance and intelligent insights. | Python, FastAPI, React, TypeScript, scikit-learn, Groq |
+
+## 3. 🧠 Machine Learning & Deep Learning
+
+Projects focused on understanding, implementing and experimenting with machine learning algorithms, neural networks and deep learning concepts.
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Stratix](https://github.com/shatakshi-1404/stratix)** | A machine learning project exploring predictive modelling, data-driven experimentation and model development. | Python, Machine Learning |
+| **[Neural Lab](https://github.com/shatakshi-1404/neural-lab)** | A deep learning workspace containing implementations and experiments with neural networks and foundational deep learning concepts. | Python, Deep Learning, Neural Networks |
+
+---
+
+## 🔍 Engineering Interests
+
+- **Software Engineering:** Backend architecture, REST API design, authentication, authorization, database modelling, testing and system design.
+- **AI Engineering:** LLM integration, prompt engineering, structured outputs, AI application development and model evaluation.
+- **RAG Systems:** Document ingestion, chunking, embeddings, vector search, hybrid retrieval, reranking and grounded responses.
+- **Agentic AI:** Multi-agent orchestration, tool execution, workflow routing, guardrails and human-in-the-loop approvals.
+- **Machine Learning:** Data preprocessing, feature engineering, classification, regression, model training and evaluation.
+- **Deep Learning:** Neural networks, forward propagation, backpropagation, optimization and model experimentation.
+- **Engineering Reliability:** Docker, automated testing, CI/CD, security controls and maintainable architecture.
 
 ---
 
@@ -142,7 +183,7 @@ I work across both **Software Engineering and AI Engineering**. Here are five pr
 
 ## 🏆 Achievements
 
-- **LeetCode:** 200+ problems solved | 1600+ rating.
+- **LeetCode:** 200+ problems solved.
 - **TCS CodeVita:** Qualified for Round 2 | Global Rank 12,222.
 - **Flipkart GRiD 7.0 & 8.0:** Qualified for Round 1.
 - **IBM Generative AI Professional Certificate:** Scored 99/100.
@@ -181,7 +222,7 @@ I work across both **Software Engineering and AI Engineering**. Here are five pr
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing software engineering, backend systems, applied AI, GenAI, agentic workflows and interesting engineering challenges.
+I'm always interested in discussing software engineering, backend systems, machine learning, deep learning, generative AI, RAG architectures and interesting engineering challenges.
 
 <p align="left">
   <a href="https://github.com/shatakshi-1404">
@@ -195,4 +236,4 @@ I'm always interested in discussing software engineering, backend systems, appli
   </a>
 </p>
 
-**Building software. Engineering AI. Learning by shipping.** 🚀
+**Building software. Engineering AI. Exploring intelligence through ML and DL.** 🚀
