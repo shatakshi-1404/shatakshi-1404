@@ -183,7 +183,7 @@ Projects focused on understanding, implementing and experimenting with machine l
 
 ## 🏆 Achievements
 
-- **LeetCode:** 100+ problems solved.
+- **LeetCode:** 180+ problems solved.
 - **TCS CodeVita:** Qualified for Round 2 | Global Rank 12,222.
 - **Flipkart GRiD 7.0 & 8.0:** Qualified for Round 1.
 - **IBM Generative AI Professional Certificate:** Scored 99/100.
