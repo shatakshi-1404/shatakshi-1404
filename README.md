@@ -30,7 +30,7 @@ My interests lie at the intersection of **Software Engineering, Applied AI, Mach
 - ⚙️ Building full-stack applications, REST APIs, backend systems and database-driven platforms.
 - 🤖 Exploring **Generative AI, RAG, LLMs, LangChain, LangGraph and Agentic AI**.
 - 🧠 Working with machine learning algorithms, neural networks and deep learning architectures.
-- 📈 Solved **200+ problems on LeetCode**.
+- 📈 Solved **300+ problems on LeetCode**.
 - 🌱 Continuously learning about system design, distributed systems, model evaluation and production-oriented AI.
 - 🤝 Open to opportunities in **SDE, Backend Engineering, Applied AI, GenAI, ML and AI Engineering**.
 
